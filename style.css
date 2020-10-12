@@ -121,7 +121,7 @@ ul {
 .hero {
     width: 100%;
     height: 100vh;
-    background: url("images/backgroundpic.jpg") center no-repeat;
+    background: url("./images/hotel-pic.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
